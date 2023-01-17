@@ -3,8 +3,5 @@
   "workspaces": [
     "frontend",
     "worker"
-  ],
-  "scripts": {
-    "build": "react-scripts build"
-  }
+  ]
 }
