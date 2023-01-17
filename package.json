@@ -1,4 +1,10 @@
 {
   "name": "workers-airtable-form",
-  "workspaces": ["frontend", "worker"]
+  "workspaces": [
+    "frontend",
+    "worker"
+  ],
+  "scripts": {
+    "build": "react-scripts build"
+  }
 }
