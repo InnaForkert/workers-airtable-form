@@ -3,5 +3,8 @@
   "workspaces": [
     "frontend",
     "worker"
-  ]
+  ],
+  "dependencies": {
+    "wrangler": "^2.8.0"
+  }
 }

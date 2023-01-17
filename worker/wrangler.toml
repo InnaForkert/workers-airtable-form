@@ -1,7 +1,7 @@
 name = "workers-airtable-form"
 type = "javascript"
 
-account_id = "dc56444c4c955a1653106ccf997c1067"
+account_id = "cf88de07a5c929e0580f1489eb4a399a"
 workers_dev = true
 
 [vars]
